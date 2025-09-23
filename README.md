@@ -27,6 +27,4 @@ This project uses smartphone sensor data (accelerometer and gyroscope) to recogn
    - Best ML models (SVM / Logistic Regression) achieved ~96% accuracy.  
    - LSTM models on raw data achieved ~91% accuracy.  
 
-## Installation
-```bash
-pip install pandas numpy scikit-learn matplotlib keras
+
