@@ -1,4 +1,4 @@
-# Human Activity Recognition (HAR) using Smartphones
+# Human Activity Recognition from Smartphone Sensor Data
 
 This project applies machine learning techniques to classify human physical activities (e.g., walking, sitting, standing) using smartphone sensor data. The dataset comes from the [UCI HAR Dataset](https://archive.ics.uci.edu/ml/datasets/Smartphone+Dataset+for+Human+Activity+Recognition+%28HAR%29+in+Ambient+Assisted+Living+%28AAL%29) .
 
