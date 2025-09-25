@@ -25,6 +25,7 @@ This project applies machine learning techniques to classify human physical acti
    - K-Nearest Neighbors (KNN)  
    - Support Vector Machine (SVM)  
    - Random Forest  
+   - Decision Trees
 
 3. **Evaluation**
    - Accuracy, cross-validation, and confusion matrix analysis  
